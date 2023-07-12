@@ -23,7 +23,7 @@ https://github.com/raushan8586/ansible.git
 
 root@ip-172-31-0-46:~# history
     1  apt update -y
-   6  python3 --version
+     python3 --version
 
 Install Ansible
     2  sudo apt install software-properties-common
